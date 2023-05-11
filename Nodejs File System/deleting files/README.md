@@ -1,0 +1,1 @@
+To delete a file with the File System module,  use the fs.unlink() method

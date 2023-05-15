@@ -1,0 +1,1 @@
+To rename a file with the File System module,  use the fs.rename() method.
